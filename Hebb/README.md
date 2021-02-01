@@ -1,3 +1,3 @@
 Hebb Network
 &
-Heb Learning Algorithm
+Hebb Learning Algorithm
