@@ -1,1 +1,1 @@
-Hebb Network for AND Function
+Hebb Network for Implementing AND Function
