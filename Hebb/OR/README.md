@@ -1,1 +1,1 @@
-Hebb Network for OR Function
+Hebb Network for Implementing OR Function
